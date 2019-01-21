@@ -1,0 +1,13 @@
+{
+  "name": "myfirst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myfirst.js",
+  "scripts": {
+    "start": "node myfirst.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+}
+}
